@@ -5,7 +5,7 @@ Welcome to Swavoti! Follow these simple steps to install the Linux desktop appli
 ## Download the App
 
 Download the latest Swavoti `.deb` package here:
-[Download Swavoti (v2.4.1)](https://github.com/swavoti/swavoti-releases/releases/download/v2.4.1/swavotidesktop-linux.deb)
+[Download Swavoti (v2.3.1)](https://github.com/swavoti/swavoti-releases/releases/download/v2.3.1/swavotidesktop-linux_2.3.1_amd64.deb)
 
 ---
 
